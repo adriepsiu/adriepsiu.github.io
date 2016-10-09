@@ -16,7 +16,7 @@ body {
 
 header {
   border-bottom:solid 1px;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
 }
 
 .contact-info{
@@ -38,10 +38,20 @@ header {
   font-style:italic;
   font-weight:900;
   margin-bottom:auto;
+  padding-bottom:5px;
 }
 
 .main{
   min-width:75%;
   font-style:normal;
   font-weight:normal;
+}
+
+.dates{
+  text-align:right;
+  float:right;
+  display:inline-block;
+  padding-right:30px;
+  font-weight:normal;
+  font-style:italic;
 }
