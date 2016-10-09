@@ -46,7 +46,8 @@ header {
   min-width:75%;
   font-style:normal;
   font-weight:normal;
-  padding-top: 3px;
+  padding-top: 2px;
+  paddint-bottom: 5px;
 }
 
 .dates{
