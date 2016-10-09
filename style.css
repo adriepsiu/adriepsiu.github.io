@@ -47,7 +47,7 @@ header {
   font-style:normal;
   font-weight:normal;
   padding-top: 2px;
-  paddint-bottom: 5px;
+  padding-bottom: 5px;
 }
 
 .dates{
@@ -59,9 +59,7 @@ header {
   font-style:italic;
 }
 
-.borderimg{
+img{
+  border:solid 1px #000000;
   margin:20px;
-  border-color:#021a40;
-  border-width: 50px;
-
 }
