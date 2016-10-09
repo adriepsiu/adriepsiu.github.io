@@ -1,0 +1,36 @@
+body {
+  height:100%
+  margin:0;
+  text-align:center;
+  width:100%;
+}
+
+h1 {
+  font-family: Georgia,serif;
+  color: #000000;
+  font-size: 32px;
+}
+
+.contact-info{
+  font-size: 24px
+  text-align: right;
+  font-weight: bold;
+  border-bottom:solid 1px;
+}
+
+.name-title {
+  text-align: left;
+  font-weight: bold 25px;
+  margin-bottom: 40;
+
+}
+
+.resume-description {
+  text-align: center;
+  padding: 20px;
+}
+
+h6 {
+  font-style:italic;
+  font-weight:bold;
+}
