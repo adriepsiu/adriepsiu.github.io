@@ -38,13 +38,15 @@ header {
   font-style:italic;
   font-weight:900;
   margin-bottom:auto;
-  padding-bottom:5px;
+  padding-bottom:3px;
+  border-bottom: solid 1px #DCDCDC;
 }
 
 .main{
   min-width:75%;
   font-style:normal;
   font-weight:normal;
+  padding-top: 3px;
 }
 
 .dates{
